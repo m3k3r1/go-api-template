@@ -9,6 +9,7 @@ Accept: application/json
 
 ###
 GET http://localhost:8000/products
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2Njc2MDY1MTcsInN1YiI6IjkyOTFmYjE2LTQ2NjctNDljMC05YmNlLTNjNmRhNzcwZDMwMCJ9.mM35K0TMXqWrdIHnlQGY_SQWgPopx9rmenoj1cbbFGU
 Accept: application/json
 
 
